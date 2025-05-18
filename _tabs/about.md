@@ -58,18 +58,18 @@ order: 4
     <h3><i class="fas fa-network-wired"></i> Sieci komputerowe</h3>
     <div class="skill-item">
       <div class="skill-info">
-        <span>Routing i Switching</span>
+        <span>Cisco</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 80%"></div>
+        <div class="progress-bar" style="width: 65%"></div>
       </div>
     </div>
     <div class="skill-item">
       <div class="skill-info">
-        <span>Firewalle</span>
+        <span>Palo Alto</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 70%"></div>
+        <div class="progress-bar" style="width: 20%"></div>
       </div>
     </div>
   </div>
@@ -92,16 +92,32 @@ order: 4
         <div class="progress-bar" style="width: 30%"></div>
       </div>
     </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>SQL</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 35%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>C</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 20%"></div>
+      </div>
+    </div>
   </div>
 
   <div class="skill-category">
     <h3><i class="fas fa-tools"></i> Administracja</h3>
     <div class="skill-item">
       <div class="skill-info">
-        <span>Docker</span>
+        <span>Windows Server</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 30%"></div>
+        <div class="progress-bar" style="width: 35%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -109,7 +125,23 @@ order: 4
         <span>Linux</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 70%"></div>
+        <div class="progress-bar" style="width: 40%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>SIEM</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 45%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>IDS/IPS</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 35%"></div>
       </div>
     </div>
   </div>
@@ -168,8 +200,8 @@ order: 4
   <div class="language-item">
     <h3>Niemiecki</h3>
     <div class="progress-container">
-      <div class="progress-bar" style="width: 60%"></div>
-      <span class="progress-text">A2</span>
+      <div class="progress-bar" style="width: 20%"></div>
+      <span class="progress-text">A1</span>
     </div>
   </div>
 </div>

@@ -11,16 +11,16 @@ math: false  # Set to true if using math equations
 mermaid: false  # Set to true if using diagrams
 comments: true  # Enable/disable comments
 image:
-  path: /assets/img/avatar1.png  # Optional header image
+  path: /assets/img/test1.png  # Optional header image
   alt: ""
 ---
 
 ## Wstęp
 
-Pierwszy, testowy post z użyciem Jekyll. Później będzie coś innego.
+Pierwszy, testowy post.
 
 ### Fragment kodu
 ```python
-def hello_world():
-    print("Test 123 :)")
+def test():
+    print("test :)")
 ```
