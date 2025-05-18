@@ -1,6 +1,6 @@
 ---
 title: "Stworzenie pierwszego posta"
-date: 2025-05-18 11:30:00 +0100  # Warsaw timezone (UTC+1)
+date: 2025-01-01 11:30:00 +0100  # Warsaw timezone (UTC+1)
 description: "Pierwszy post na stronie"
 # categories: [Blogging, Tutorial]
 # tags: [jekyll, chirpy, first-steps]
