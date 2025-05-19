@@ -16,9 +16,11 @@ order: 4
   <h3>Młodszy Specjalista ds. IT</h3>
   <div class="meta">ID Logistics | 07.2024-09.2024</div>
   <ul>
-    <li>Zapewnienie ciągłości funkcjonowania sprzętu informatycznego (w tym kontakt z serwisami)</li>
-    <li>Konfiguracja komputerów, laptopów, terminali mobilnych, drukarek laserowych i termicznych</li>
+    <li>Bieżące wsparcie pracowników z zakresu informatyki</li>
     <li>Komunikacja w języku angielskim z zagranicznymi klientami oraz współpracownikami</li>
+    <li>Konfiguracja komputerów, laptopów, terminali mobilnych, drukarek laserowych i termicznych</li>
+    <li>Zapewnienie ciągłości funkcjonowania sprzętu informatycznego (w tym kontakt z serwisami)</li>
+    <li>Rozwiązywanie problemów zgłaszanych przez użytkowników</li>
   </ul>
 </div>
 
@@ -28,7 +30,10 @@ order: 4
   <ul>
     <li>Przygotowywanie systemów do pracy przez użytkowników końcowych</li>
     <li>Konfigurowanie urządzeń sieciowych</li>
+    <li>Udzielanie wsparcia technicznego użytkownikom</li>
+    <li>Instalacja i aktualizowanie oprogramowania oraz systemów operacyjnych</li>
     <li>Zarządzanie kopiami zapasowymi i przywracaniem danych</li>
+    <li>Szkolenie użytkowników w zakresie korzystania z systemów informatycznych</li>
   </ul>
 </div>
 
