@@ -11,7 +11,7 @@ math: false  # Set to true if using math equations
 mermaid: false  # Set to true if using diagrams
 comments: true  # Enable/disable comments
 image:
-  path: /assets/img/test1.png  # Optional header image
+  path: /assets/img/test2.png  # Optional header image
   alt: ""
 ---
 
