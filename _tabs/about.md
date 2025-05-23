@@ -71,6 +71,14 @@ order: 4
     </div>
     <div class="skill-item">
       <div class="skill-info">
+        <span>Wireshark</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 40%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
         <span>Palo Alto</span>
       </div>
       <div class="progress-container">
@@ -123,10 +131,18 @@ order: 4
     </div>
     <div class="skill-item">
       <div class="skill-info">
-        <span>Java/Kotlin</span>
+        <span>Java, Kotlin</span>
       </div>
       <div class="progress-container">
         <div class="progress-bar" style="width: 20%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>Git, GitHub</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 30%"></div>
       </div>
     </div>
   </div>
@@ -171,6 +187,14 @@ order: 4
       </div>
       <div class="progress-container">
         <div class="progress-bar" style="width: 20%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>Docker</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 25%"></div>
       </div>
     </div>
   </div>
