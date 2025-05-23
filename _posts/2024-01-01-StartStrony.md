@@ -22,5 +22,5 @@ Pierwszy, testowy post.
 ### Fragment kodu
 ```python
 def test():
-    print("test :)")
+    print("test")
 ```
