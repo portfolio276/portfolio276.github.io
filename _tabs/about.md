@@ -77,6 +77,14 @@ order: 4
         <div class="progress-bar" style="width: 20%"></div>
       </div>
     </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>GNS3</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 40%"></div>
+      </div>
+    </div>
   </div>
 
   <div class="skill-category">
@@ -86,7 +94,7 @@ order: 4
         <span>Python</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 50%"></div>
+        <div class="progress-bar" style="width: 40%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -94,7 +102,7 @@ order: 4
         <span>Bash</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 30%"></div>
+        <div class="progress-bar" style="width: 25%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -102,12 +110,20 @@ order: 4
         <span>SQL</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 35%"></div>
+        <div class="progress-bar" style="width: 40%"></div>
       </div>
     </div>
     <div class="skill-item">
       <div class="skill-info">
         <span>C</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 20%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>Java/Kotlin</span>
       </div>
       <div class="progress-container">
         <div class="progress-bar" style="width: 20%"></div>
@@ -122,7 +138,7 @@ order: 4
         <span>Windows Server</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 35%"></div>
+        <div class="progress-bar" style="width: 30%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -138,7 +154,15 @@ order: 4
         <span>SIEM</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 45%"></div>
+        <div class="progress-bar" style="width: 35%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>VMware, Hyper-V, VirtualBox, KVM+QEMU</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 40%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -146,7 +170,7 @@ order: 4
         <span>IDS/IPS</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 35%"></div>
+        <div class="progress-bar" style="width: 20%"></div>
       </div>
     </div>
   </div>
