@@ -47,3 +47,19 @@ Uruchamiamy webterm-1 i wybieramy opcję `Console`. W przeglądarce odwiedzamy a
 (dla wygody możemy zainstalować np TigerVNC i ustawić `vnc` jako domyślny typ konsoli w ustawieniach PA-VM)
 
 ## Zarządzanie firewallem Palo Alto
+
+Zmodyfikujmy lekko naszą sieć i dodajmy kolejnego klienta oraz L2 switch.
+W panelu `NETWORK` i karcie `Interfaces` ustawiamy typ interfejsu `eth1/1` na L3 oraz adres na `192.168.10.100/24`, a `eth1/2` również na L3 i odpowiednio `192.168.20.100/24`. Pierwszy podłączony jest bezpośrednio do naszego serwera, a drugi do switcha z klientami. Virtual router ustawiamy na wartość `default`. Security Zone możemy ustawić bezpośrednio w widoku poszczególnych interfejsów lub na karcie `Zones`. 
+
+![Network Interfaces](/assets/img/network_interfaces1.png)
+
+Tworzymy 2 Security Zones - `Client` oraz `Server` i dodajemy do nich odpowiednie interfejsy sieciowe. 
+
+![Network Zones](/assets/img/network_zones1.png)
+
+W zakładce `POLICIES` -> `Security` możemy tworzyć polityki bezpieczeństwa. Domyślnie mamy 2 - `intrazone-default`, która zezwala na komunikację wewnątrz oraz `interzone-default`, która blokuje komunikację między różnymi zone'ami. 
+Wypróbujmy komendę `ping` na Kliencie 1 (192.168.20.1). 
+
+![Ping](/assets/img/ping_test1.png)
+
+Jak widać, możemy komunikować się wewnątrz Security Zone - Client, z klientem 2 (192.168.20.2), ale nie mamy dostępu do innych sieci, na przykład z serwerem.
