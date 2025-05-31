@@ -110,7 +110,7 @@ order: 4
         <span>Bash</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 25%"></div>
+        <div class="progress-bar" style="width: 30%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -183,6 +183,14 @@ order: 4
     </div>
     <div class="skill-item">
       <div class="skill-info">
+        <span>Cron Jobs</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 45%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
         <span>IDS/IPS</span>
       </div>
       <div class="progress-container">
@@ -212,7 +220,7 @@ order: 4
       <i class="fas fa-award"></i>
     </div>
     <div class="certificate-details">
-      <h3>Cisco Certified Network Associate (CCNA)</h3>
+      <h3>Cisco Certified Network Associate (CCNA 200-301)</h3>
       <div class="meta">Cisco | 2025</div>
     </div>
   </div>
