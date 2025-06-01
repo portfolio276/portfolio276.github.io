@@ -162,7 +162,7 @@ order: 4
         <span>Linux</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 40%"></div>
+        <div class="progress-bar" style="width: 45%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -170,7 +170,7 @@ order: 4
         <span>SIEM</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 35%"></div>
+        <div class="progress-bar" style="width: 30%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -186,7 +186,7 @@ order: 4
         <span>Cron Jobs</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 45%"></div>
+        <div class="progress-bar" style="width: 35%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -202,7 +202,7 @@ order: 4
         <span>Docker</span>
       </div>
       <div class="progress-container">
-        <div class="progress-bar" style="width: 25%"></div>
+        <div class="progress-bar" style="width: 15%"></div>
       </div>
     </div>
   </div>
