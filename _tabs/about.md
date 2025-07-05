@@ -13,6 +13,16 @@ order: 4
 </div>
 
 <div class="experience-item">
+  <h3>Intern, Corporate Security Engineer</h3>
+  <div class="meta">Egnyte | 07.2025-obecnie</div>
+  <ul>
+    <li>Tworzenie i rozwój infrastruktury z wykorzystaniem narzędzi IaC - w tym Terraform</li>
+    <li>Współpraca przy implementacji zabezpieczeń w środowisku chmurowym</li>
+    <li>Realizacja interesujących projektów z zachowaniem firmowej rozwagi finansowej</li>
+  </ul>
+</div>
+
+<div class="experience-item">
   <h3>Młodszy Specjalista ds. IT</h3>
   <div class="meta">ID Logistics | 07.2024-09.2024</div>
   <ul>
@@ -115,6 +125,14 @@ order: 4
     </div>
     <div class="skill-item">
       <div class="skill-info">
+        <span>Terraform</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 20%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
         <span>SQL</span>
       </div>
       <div class="progress-container">
@@ -187,6 +205,14 @@ order: 4
       </div>
       <div class="progress-container">
         <div class="progress-bar" style="width: 35%"></div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-info">
+        <span>Google Cloud Platform</span>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: 25%"></div>
       </div>
     </div>
     <div class="skill-item">
@@ -275,12 +301,12 @@ order: 4
 
 <div class="interests-grid">
   <div class="interest-item">
-    <i class="fas fa-server"></i>
-    <span>Homelab</span>
-  </div>
-  <div class="interest-item">
     <i class="fas fa-shield-alt"></i>
     <span>Cyberbezpieczeństwo</span>
+  </div>
+  <div class="interest-item">
+    <i class="fas fa-server"></i>
+    <span>Homelab</span>
   </div>
   <div class="interest-item">
     <i class="fas fa-person-running"></i>
